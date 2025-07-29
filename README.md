@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 📅DAY - 1 : React - Introduction
+=======
+📅DAY - 1 :
+>>>>>>> 71ae0eea27c96296c78378317de45575cf4c2993
 
     ✅ Set up a basic HTML structure to include React via CDN.
 
@@ -9,6 +13,7 @@
     ✅ Rendered elements using ReactDOM.createRoot() and root.render().
 
     ✅ Tested parent-child and sibling relationships in virtual DOM.
+<<<<<<< HEAD
 
 📅 Day 2: Igniting the React App
 
@@ -29,3 +34,5 @@
 
     ⚛️ React via  :
     Installed and set up React and ReactDOM to begin building UI components.
+=======
+>>>>>>> 71ae0eea27c96296c78378317de45575cf4c2993
