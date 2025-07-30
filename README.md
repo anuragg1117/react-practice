@@ -29,3 +29,21 @@
 
     ⚛️ React via  :
     Installed and set up React and ReactDOM to begin building UI components.
+
+📅 Day 3: Core React Concepts
+
+    📦 Parcel for Production:
+    Optimizing the React app build using Parcel bundler for production-ready deployment.
+    Understanding Parcel's production build process.
+
+    ⚛️ Understanding JSX:
+    How JSX works under the hood and how it's different from regular HTML.
+
+    🔄 Babel Introduction:
+    Role of Babel in transpiling JSX to JavaScript and ensuring browser compatibility.
+
+    🧩 Functional Components in React:
+    Writing components using ES6 functions and understanding their structure.
+
+    🔗 Component Composition:
+    Building UIs by combining smaller components together – "components inside components".
