@@ -9,5 +9,8 @@
   "description": "",
   "devDependencies": {
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1"
   }
 }
