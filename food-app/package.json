@@ -2,8 +2,9 @@
   "name": "food-app",
   "version": "1.0.0",
   "description": "food-application",
-  "main": "App.js",
   "scripts": {
+    "start": "parcel food.html",
+    "build": "parcel build food.html",
     "test": "jest"
   },
   "repository": {
@@ -17,6 +18,10 @@
   },
   "homepage": "https://github.com/anuragg1117/react-practice#readme",
   "dependencies": {
-    "react": "^19.1.1"
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
   }
 }
