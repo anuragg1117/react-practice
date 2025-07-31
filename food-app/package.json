@@ -1,0 +1,22 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "food-application",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragg1117/react-practice.git"
+  },
+  "author": "Anurag-Gajabheemkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragg1117/react-practice/issues"
+  },
+  "homepage": "https://github.com/anuragg1117/react-practice#readme",
+  "dependencies": {
+    "react": "^19.1.1"
+  }
+}
